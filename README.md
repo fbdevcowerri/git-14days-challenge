@@ -105,7 +105,7 @@ Extra -  feel free to send in a Pull request if you see a typo, spelling error a
 ## Day 2 Challenge, 2 need help
 - Google is your friend, check out Google
 - Watch this Video by the Facebook Open Source Team https://youtu.be/c6b6B9oN4Vg
-- See my Solution here [day2solution](day1challenge/ndubuisi-day2.md), notice that I uploaded my images on github here https://github.com/fbdevcowerri/git-14days-challenge/issues/5
+- See my Solution here [day2solution](day2challenge/ndubuisi-day2.md), notice that I uploaded my images on github here https://github.com/fbdevcowerri/git-14days-challenge/issues/5
 - Create an issue on github and tell us what challenges you are having, someone would be kind enough to help you out
 - Tell us about the challenges you are facing in the [facebook group](http://bit.ly/fbowerri)
 - Wait for the solution video which comes out by the end of everyday D:, don't do this
