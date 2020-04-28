@@ -1,8 +1,8 @@
 # git-14days-challenge
 Get(Git) up and running with Git, by following through on our 14 Days Git/Github Mastery Challenge
 
-* [Day 1 Challenge](day-1-challenge)
-* [Day 2 Challenge](day-2-challenge)
+* [Day 1 Challenge](/README.md#day-1-challenge)
+* [Day 2 Challenge](/README.md#day-2-challenge)
 
 # Day 1 Challenge
 
