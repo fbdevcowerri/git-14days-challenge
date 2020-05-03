@@ -5,7 +5,9 @@ Getting your github remotes right, as well as basic commands associated with
 
 `git remote`
 
-Also learn about using the `-help` flag for different commands
+Also learn about using the `-help` flag for different commands.
+
+The Hope is that after this you can always pull from the original repo with `git pull origin master` and push to your fork for pull requests with git push  `<your-git-username>` master.
 
 During the Day 2 task with remotes, I noticed that even though we got the `git remote add <username> <url>` command right, most of us had our origin pointing to the repo we forked and our <username> pointing to the original repo, that should not be the case, lets see an example. Since my Forked repo is
 
