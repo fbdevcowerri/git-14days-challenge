@@ -55,6 +55,8 @@ Usually there is a master branch, that only pulls in changes from `origin master
 
 - Make a pull request with the pushed branch
 
+- Go to the Original Repo https://github.com/fbdevcowerri/git-14days-challenge notice that you are prompted to make a pull request
+
 - Now checkout to the second branch with `git checkout add-gitbranch-second-screenshot`
 
  create a file in `day6challenge` folder called `yourname-day6-branch2.md`
@@ -62,6 +64,8 @@ Usually there is a master branch, that only pulls in changes from `origin master
 - add second screenshot to the readme file created,
 
 - Add and commit changes, push branch to your forked repo using `git push <your-name > add-gitbranch-second-screenshot`
+
+- Remember to create issues for pull requests
 
 - Make a pull request with the pushed branch
 
