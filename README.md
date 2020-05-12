@@ -9,6 +9,7 @@ Get(Git) up and running with Git, by following through on our 14 Days Git/Github
 * [Day 6 Challenge](day6challenge/README.md)
 * [Day 7 Challenge](day7challenge/README.md)
 * [Day 8 Challenge](day8challenge/README.md)
+* [Day 9 Challenge](day9challenge/README.md)
 
 
 
