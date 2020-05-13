@@ -5,7 +5,11 @@ Today we will be learning how to Squash long commits by utilizing the `$ git reb
 #### Brief Overview
 
 Basically Rebasing is a feature in Git that makes **REWRITING** commit history possible. Squashing on
-the other hand is simply turning long commits into one. Get the gist?
+the other hand is simply turning long commits into one. Get the gist? To learn more Indepthly check this
+out;
+
+- [Git Rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+- [A beginners guide to squashing commits](https://medium.com/@slamflipstrom/a-beginners-guide-to-squashing-commits-with-git-rebase-8185cf6e62ec)
 
 #### Task
 
