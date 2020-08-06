@@ -1,12 +1,13 @@
-*My Github Profile*
-![My Github Profile](https://user-images.githubusercontent.com/49791498/80411403-107fcd00-88c4-11ea-86c6-3f079cd8f499.png)
+# Github Repo
+![Github Profile](https://user-images.githubusercontent.com/49791498/89209287-e837f680-d5b5-11ea-8592-1ee8f6d31b66.png)
 
-*My Repo*
-![My repo](https://user-images.githubusercontent.com/49791498/80411585-52a90e80-88c4-11ea-890d-b5cc62f27f42.png)
 
-*My forked repo*
-![My forked repo](https://user-images.githubusercontent.com/49791498/80411503-34dba980-88c4-11ea-9f74-8799e465f6ac.png)
+# Cloning the Repo
+![Cloning the Repo](https://user-images.githubusercontent.com/49791498/89209313-f423b880-d5b5-11ea-9cc0-a83b31f26c0b.png)
 
-*My Local clone*
-![Local Clone](https://user-images.githubusercontent.com/49791498/80411253-c72f7d80-88c3-11ea-8611-37c1edc31eab.png)
+# Forked Repo
+![Forked Repo](https://user-images.githubusercontent.com/49791498/89209667-a6f41680-d5b6-11ea-89aa-6d233ef94c27.png)
+
+#Local Copy
+![Local Copy](https://user-images.githubusercontent.com/49791498/89209739-cd19b680-d5b6-11ea-94b3-9f046f6f2ef8.png)
 
